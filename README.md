@@ -1,2 +1,2 @@
-# l-gica
+# lógica
 praticando lógica de programação em python
